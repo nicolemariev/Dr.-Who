@@ -1,0 +1,43 @@
+body {
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #CDE4FF;
+	background: #333A40;
+	padding: 10px;
+	margin: 10px;
+}
+
+td {
+	padding: 25px;
+	background: #4C5E5E;
+	border: 1px solid #729EBF;
+	text-align: left;
+	vertical-align: top;
+}
+table {
+	border-collapse: collapse;
+}
+h1{
+	font-size: 30px;
+}
+h1 , p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0px;
+}
+a {
+	color: #ADD0E5;
+	
+}
+a:hover {
+	color: #729EBF;
+	font-weight: bold;
+}
+img{
+	border: 1px solid #ADD0E5;
+}
+.doctor-main-page td {
+	padding: 10px;
+}
+.doctor-main-page img {
+	border: 4 px solid #ADD0E5;
+}
